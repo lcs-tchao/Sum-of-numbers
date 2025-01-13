@@ -11,7 +11,7 @@ import SwiftUI
 struct Sum_of_numbersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LandingView()
         }
     }
 }
